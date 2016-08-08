@@ -2,7 +2,7 @@
 package String;
 
 import java.util.Scanner;	
-	public class LongSubString {
+	public class LongSubstring {
 
 		/**
 		 * @param args
