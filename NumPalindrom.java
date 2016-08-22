@@ -1,8 +1,10 @@
+import java.util.Scanner;
 public class NumPalindrom {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String a="565";
+		Scanner sc=new Scanner(System.in);
+		String a=sc.next();
 		int b=Integer.parseInt(a);
 		int sum=0;
 		while(b>0){
